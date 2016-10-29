@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//test comment
+//test comment added
 
 func main() {
     fmt.Printf("hello, world\n")
